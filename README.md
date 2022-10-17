@@ -1,7 +1,7 @@
 - Hello ,I'm @SuhaTasci
 - I'm student in Beykoz University
 - I'm interested in games
-- i am a game developer
+- I'm a game developer
 - Contact with me :
 - insta
 - tweet
